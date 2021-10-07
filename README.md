@@ -1,6 +1,6 @@
-# Welcome to React Joke Generator! 
+# Welcome to React Joke Generator! [![Netlify Status](https://api.netlify.com/api/v1/badges/d161c842-af40-41b8-a1cc-40274a18d9fb/deploy-status)](https://app.netlify.com/sites/mbh-react-joke-generator/deploys)
 
-## [View Site]()
+## [View Site](https://mbh-react-joke-generator.netlify.app/)
 ## Get Started:
 
 ```javascript
